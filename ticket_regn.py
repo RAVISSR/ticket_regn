@@ -9,7 +9,7 @@ Original file is located at
 
 userid = ["ravi", "raja", "ramu"]
 password = ["1330", "143", "916"]
-username = input()
+username = input("Enter your userid :")
 
 if username==userid[0]:
   password1=input("Enter your password :")
